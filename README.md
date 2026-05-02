@@ -63,7 +63,8 @@ FinalProject-VTPEH-6270/
 │
 ├── scripts/
 │   ├── RFinalProject6270.R          # Main analysis script
-│   └── figures_nature_style.R       # Standalone Nature-style figure generator
+│   ├── figures_nature_style.R       # Standalone Nature-style figure generator
+│   └── app.R                        # Shiny app (Income, Physical Inactivity & Obesity)
 │
 ├── outputs/
 │   ├── reports/
