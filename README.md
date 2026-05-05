@@ -80,7 +80,8 @@ FinalProject-VTPEH-6270/
 │       └── Fig8_combined_panel.pdf
 │
 ├── RFinalProject6270.Rmd            # R Markdown source
-├── references.bib                   # Bibliography
+├├── references/
+│   └── references.bib               # Bibliography
 ├── apa.csl                          # Citation style
 └── README.md
 ```
